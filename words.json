@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "latWord": "animal",
+    "options": [
+      {
+        "id": 1,
+        "rusWord": "животное",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "rusWord": "растение",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "rusWord": "здание",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "latWord": "flos",
+    "options": [
+      {
+        "id": 1,
+        "rusWord": "цветок",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "rusWord": "лист",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "rusWord": "дерево",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "latWord": "domus",
+    "options": [
+      {
+        "id": 1,
+        "rusWord": "дом",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "rusWord": "улица",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "rusWord": "мост",
+        "isCorrect": false
+      }
+    ]
+  }
+]
